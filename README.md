@@ -9,7 +9,6 @@ This repositary includes a statistical based flood mapping approch for ALOS2 Lev
 
 #### source: https://alos-pasco.com/en/alos-2/spec/
 
-# Python 3.9.7
 
-These scripts were writen in Python version 3.9.7 and requirement.txt includes all the necessary packages to be installed  to run the script.
+PS: These scripts were writen in Python version 3.9.7 and requirement.txt includes all the necessary packages to be installed  to run the notebooks.
 
