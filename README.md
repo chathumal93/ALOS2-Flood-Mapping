@@ -2,10 +2,10 @@
 
 This repositary includes a statistical based flood mapping approch for ALOS2 Level 2.1 data.
 
-<img src="./images/obsmode_topic1.png"  width="700" height="400">
-<img src="./images/obsmode1.png"  width="700" height="400">
-<img src="./images/obsmode_topic2.png"  width="700" height="400">
-<img src="./images/obsmode2.png"  width="700" height="400">
+<img src="./images/obsmode_topic1.png"  width="500" height="200">
+<img src="./images/obsmode1.png"  width="500" height="200">
+<img src="./images/obsmode_topic2.png"  width="500" height="200">
+<img src="./images/obsmode2.png"  width="500" height="200">
 
 #### source: https://alos-pasco.com/en/alos-2/spec/
 
