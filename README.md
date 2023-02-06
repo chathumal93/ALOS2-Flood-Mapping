@@ -1,11 +1,11 @@
 # ALOS2-Flood-Mapping
 
-This repositary includes a statistical based flood mapping approch for ALOS2 Level 2.1 data.
+This repositary includes an automatic statistical based flood mapping approch for ALOS2 Level 2.1 data. 
 
-<img src="./images/obsmode_topic1.png"  width="500" height="100">
-<img src="./images/obsmode1.png"  width="500" height="100">
-<img src="./images/obsmode_topic2.png"  width="500" height="100">
-<img src="./images/obsmode2.png"  width="500" height="80">
+The flood extraction process is carried out in the local machine with the help Google Earth Engine.
+
+<img src="./images/alos2.png"  width="500" height="300">
+
 
 #### source: https://alos-pasco.com/en/alos-2/spec/
 
