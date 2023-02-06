@@ -4,7 +4,8 @@ This repositary includes an automatic statistical based flood mapping approch fo
 Below chart gives a brief ooverview of ALOS2 L2.1 data.
 
 <img src="./images/alos2.png"  width="400" height="250">
-##### source: https://alos-pasco.com/en/alos-2/spec/
+
+source: https://alos-pasco.com/en/alos-2/spec/
 
 The flood extraction process is carried out in  a local machine with the help additional data coming from the Google Earth Engine. The picture below shows the carried out methodology to obtain flood layers.
 
