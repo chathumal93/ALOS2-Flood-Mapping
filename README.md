@@ -1,6 +1,6 @@
 # ALOS2-Flood-Mapping
 
-This repositary includes an automatic statistical based flood mapping approch for ALOS2 Level 2.1 data.(Geometrically corrected and orthorectified data in .tif format).
+This repositary includes an automatic statistical based flood mapping approach for ALOS2 Level 2.1 data.(Geometrically corrected and orthorectified data in .tif format).
 Below chart gives a brief ooverview of ALOS2 L2.1 data.
 
 <img src="./images/alos2.png"  width="400" height="250">
