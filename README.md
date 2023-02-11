@@ -8,6 +8,6 @@ source: https://alos-pasco.com/en/alos-2/spec/
 
 The flood extraction process is carried out in a local machine with the help of additional data from the Google Earth Engine. The picture below shows the methodology carried out to obtain flood layers.
 
-<img src="./images/method.png"  width="400" height="500">
+<img src="./images/method_new.png"  width="400" height="500">
 
 Jupyter notebooks in this repository use Python version 3.9.7. Moreover, the requirement.txt includes all the necessary packages to be installed to run these notebooks. Helper_Functions.ipynb contains all the functions required for the ALOS2_Flood_Extraction.ipynb
